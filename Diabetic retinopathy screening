@@ -1,0 +1,21 @@
+Datasets
+Dataset	Time	Images	Format	Camera	Resolution	FOV	Institudes	Tasks
+GDRBench	2023	111,357	/	/	/	/	Multiple Institues	Domain Generalization in DR Grading (DGDR)
+MFIDDR	2023	34,452	JPEG	Zeiss VISUCAM NM/FA	2124 × 2056	/	/	DR grading
+DRTiD	2022	3100	jpg	/	/	Two-field 45°	FDU	DR grading / localization
+FGADR	2021	2842	/	/	/	/	IIAI	DR grading / Lesion segmentation
+DDR	2019	13673	jpg	Topcon, Nikon, Canon	/	45°	Nankai	DR grading / Lesion segmentation/detection
+DeepDRiD	2019	2256	jpg	TOPCON	1956×1934	/	SDCSP	DR grading / Quality assessment
+Kaggle	2015	88k	jpeg	/	/	50°	EyePACS	DR grading
+Messidor	2014	1200	tiff	Topcpn TRC NW6	1440x960,
+2240x1488,
+2304x1536	45°	ADCIS	DR & DME grading
+IDRiD	2018	516/81	jpg	Kowa VX-10α	4288x2848	50°	CESIP	DR & DME grading / Typical DR lesions & optic disc detection / Optic disc and fovea center location
+APTOS	2019	13k	png	/	/	/	/	DR grading
+DIARETDB0	2007	130	jpg	/	1500x1152	50°	/	DR lesions finding
+DIARETDB1	2007	89	jpg	/	1500x1152	50°	/	DR lesions detection
+ROC	2007	100	jpg	/	768×576,
+1058x1061,
+1386×1391	45°	/	Microaneurysms detection
+E-ophtha-EX	2013	82	jpeg	/	2533x1696	45°	ADCIS	Exudates detection
+E-ophtha-MA	2013	381	jpeg
